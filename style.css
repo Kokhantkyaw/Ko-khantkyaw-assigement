@@ -1,0 +1,25 @@
+
+
+.l-main
+{
+   
+    margin: auto;
+}
+.l-main__box{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.l-main__box__card{
+    border: 1px solid #000;
+    width: 30%;
+}
+.l-main__box__card p{
+    padding-left: 5px;
+}
+.l-main__box :nth-child(3){
+    
+    background-color: red;
+}
+
+
